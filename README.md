@@ -1,4 +1,19 @@
-# OpenGWF: An Open-Source Repository of Grid-based Weather Forecasting Models with Paper Links and Implementations
-# Introducton
-# Overview of Model Zoo and Datasets
-We support various spatiotemporal forecasting methods, and we are working on adding new methods and collecting experiment results.
+# 🌐 OpenGWF: A Comprehensive Survey and Collection of Grid-based Weather Forecasting Models
+
+## 📚 Model Collection
+
+### Spatiotemporal Prediction Methods
+
+<details>
+<summary><b>Currently supported methods</b> (click to expand)</summary>
+
+- ConvLSTM (NeurIPS'2015)
+- PredRNN (NeurIPS'2017)
+- ... more coming soon
+
+</details>
+
+### Numerical Weather Prediction Models
+
+- WRF
+- IFS
