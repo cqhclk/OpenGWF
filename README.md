@@ -6,7 +6,7 @@
 
 <details>
 <summary><b>Currently supported methods</b> (click to expand)</summary>
-
+- [PhyDNet](https://arxiv.org/abs/2003.01460) (CVPR'2020)
 - [Simvp](https://arxiv.org/abs/2206.05099) (CVPR'2022)
 - PredRNN (NeurIPS'2017)
 - ... more coming soon
