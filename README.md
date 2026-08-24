@@ -7,7 +7,7 @@
 <details>
 <summary><b>Currently supported methods</b> (click to expand)</summary>
 
-- [ConvLSTM](https://arxiv.org/abs/1511.06432) (NeurIPS'2015)
+- [Simvp](https://arxiv.org/abs/2206.05099) (CVPR'2022)
 - PredRNN (NeurIPS'2017)
 - ... more coming soon
 
