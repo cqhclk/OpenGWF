@@ -2,12 +2,12 @@
 
 ## 📚 Model Collection
 
-### Spatiotemporal Prediction Methods
+### Grid-based Weather Forecasting Methods
 
 <details>
 <summary><b>Currently supported methods</b> (click to expand)</summary>
 
-- ConvLSTM (NeurIPS'2015)
+- [ConvLSTM](https://arxiv.org/abs/1511.06432) (NeurIPS'2015)
 - PredRNN (NeurIPS'2017)
 - ... more coming soon
 
