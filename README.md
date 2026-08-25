@@ -19,3 +19,6 @@
 
 </details>
 
+## 📖 Citation
+
+If you find this collection useful for your research, please consider citing the relevant models as follows:
