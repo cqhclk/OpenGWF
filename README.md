@@ -30,4 +30,14 @@ If you find this collection useful for your research, please consider citing the
   pages={11474--11484},
   year={2020}
 }
-'''
+
+@inproceedings{gao2022simvp,
+  title={Simvp: Simpler yet better video prediction},
+  author={Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z},
+  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={3160--3170},
+  year={2022},
+  organization={IEEE}
+}
+
+
