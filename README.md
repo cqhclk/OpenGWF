@@ -66,5 +66,22 @@ If you find this collection useful for your research, please consider citing the
   year={2024}
 }
 
+@inproceedings{verma2024climode,
+  title={Climode: Climate and weather forecasting with physics-informed neural odes},
+  author={Verma, Yogesh and Heinonen, Markus and Garg, Vikas},
+  booktitle={International Conference on Learning Representations},
+  volume={2024},
+  pages={8408--8430},
+  year={2024}
+}
+
+@inproceedings{lin2025alphapre,
+  title={AlphaPre: Amplitude-phase disentanglement model for precipitation nowcasting},
+  author={Lin, Kenghong and Zhang, Baoquan and Yu, Demin and Feng, Wenzhi and Chen, Shidong and Gao, Feifan and Li, Xutao and Ye, Yunming},
+  booktitle={2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={17841--17850},
+  year={2025},
+  organization={IEEE}
+}
 
 ```
