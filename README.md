@@ -22,3 +22,12 @@
 ## 📖 Citation
 
 If you find this collection useful for your research, please consider citing the relevant models as follows:
+```bibtex
+@inproceedings{guen2020disentangling,
+  title={Disentangling physical dynamics from unknown factors for unsupervised video prediction},
+  author={Guen, Vincent Le and Thome, Nicolas},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={11474--11484},
+  year={2020}
+}
+'''
