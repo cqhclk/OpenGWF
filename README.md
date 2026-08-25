@@ -48,5 +48,21 @@ If you find this collection useful for your research, please consider citing the
   year={2023}
 }
 
+@inproceedings{tan2023temporal,
+  title={Temporal attention unit: Towards efficient spatiotemporal predictive learning},
+  author={Tan, Cheng and Gao, Zhangyang and Wu, Lirong and Xu, Yongjie and Xia, Jun and Li, Siyuan and Li, Stan Z},
+  booktitle={2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={18770--18782},
+  year={2023},
+  organization={IEEE}
+}
 
+@article{xu2024generalizing,
+  title={Generalizing weather forecast to fine-grained temporal scales via physics-ai hybrid modeling},
+  author={Xu, Wanghan and Ling, Fenghua and Zhang, Wenlong and Han, Tao and Chen, Hao and Ouyang, Wanli and Bai, Lei},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={23325--23351},
+  year={2024}
+}
 ```
