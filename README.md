@@ -40,4 +40,11 @@ If you find this collection useful for your research, please consider citing the
   organization={IEEE}
 }
 
-
+@inproceedings{kurth2023fourcastnet,
+  title={Fourcastnet: Accelerating global high-resolution weather forecasting using adaptive fourier neural operators},
+  author={Kurth, Thorsten and Subramanian, Shashank and Harrington, Peter and Pathak, Jaideep and Mardani, Morteza and Hall, David and Miele, Andrea and Kashinath, Karthik and Anandkumar, Anima},
+  booktitle={Proceedings of the platform for advanced scientific computing conference},
+  pages={1--11},
+  year={2023}
+}
+```
