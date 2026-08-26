@@ -5,6 +5,10 @@
 This project provides a Conda environment configuration file (environment.yml). Users can easily reproduce the complete runtime environment for all grid-based weather forecasting models with the following commands:
 ```bitex
 git clone https://github.com/kunli1992/OpenGWF/
+cd OpenGWF
+conda env create -f environment.yml
+conda activate opengwf
+```
 
 ## 📚 Model Collection
 
