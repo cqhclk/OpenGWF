@@ -33,7 +33,7 @@ conda activate opengwf
 <details>
 <summary><b>Currently supported datasets</b> </summary>
   
-- [weatherbench](https://arxiv.org/abs/2002.00469) (Arxiv'2020)
+- [weatherbench](https://arxiv.org/abs/2002.00469) (Arxiv'2020) [download]() [config]
 - ... more coming soon
 
 </details>
