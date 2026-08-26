@@ -28,6 +28,17 @@ conda activate opengwf
 
 </details>
 
+## 📊 Datasets
+### Weather Forecasting Benchmarks
+<details>
+<summary><b>Currently supported datasets</b> </summary>
+  
+- [PhyDNet](https://arxiv.org/abs/2003.01460) (CVPR'2020)
+- ... more coming soon
+
+</details>
+
+
 ## 📖 Citation
 
 If you find this collection useful for your research, please consider citing the relevant models as follows:
