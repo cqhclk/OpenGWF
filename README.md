@@ -1,4 +1,4 @@
-
+<img width="1131" height="1066" alt="c34a6555-3d5e-45cd-a1fe-de42e505bf57" src="https://github.com/user-attachments/assets/febd34c4-ebe0-4c5f-913c-6c98e5e585ad" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e1e95f34-3427-49ef-8056-8fe9f36814e3" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/10c6b45c-9cb0-48cb-ab88-670e9e7ca2ad" />
 # 🌐 OpenGWF: A Comprehensive Collection of Grid-based Weather Forecasting Models
 
 ## ⬇️ Installation
@@ -39,70 +39,10 @@ conda activate opengwf
 
 </details>
 
+## ☀️ Visualization
+We present visualization examples of some baseline below. For more detailed information, please refer to the visualization.
+
 
 ## 📖 Citation
 
 If you find this collection useful for your research, please consider citing the relevant models as follows:
-```bibtex
-@inproceedings{guen2020disentangling,
-  title={Disentangling physical dynamics from unknown factors for unsupervised video prediction},
-  author={Guen, Vincent Le and Thome, Nicolas},
-  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
-  pages={11474--11484},
-  year={2020}
-}
-
-@inproceedings{gao2022simvp,
-  title={Simvp: Simpler yet better video prediction},
-  author={Gao, Zhangyang and Tan, Cheng and Wu, Lirong and Li, Stan Z},
-  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages={3160--3170},
-  year={2022},
-  organization={IEEE}
-}
-
-@inproceedings{kurth2023fourcastnet,
-  title={Fourcastnet: Accelerating global high-resolution weather forecasting using adaptive fourier neural operators},
-  author={Kurth, Thorsten and Subramanian, Shashank and Harrington, Peter and Pathak, Jaideep and Mardani, Morteza and Hall, David and Miele, Andrea and Kashinath, Karthik and Anandkumar, Anima},
-  booktitle={Proceedings of the platform for advanced scientific computing conference},
-  pages={1--11},
-  year={2023}
-}
-
-@inproceedings{tan2023temporal,
-  title={Temporal attention unit: Towards efficient spatiotemporal predictive learning},
-  author={Tan, Cheng and Gao, Zhangyang and Wu, Lirong and Xu, Yongjie and Xia, Jun and Li, Siyuan and Li, Stan Z},
-  booktitle={2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages={18770--18782},
-  year={2023},
-  organization={IEEE}
-}
-
-@article{xu2024generalizing,
-  title={Generalizing weather forecast to fine-grained temporal scales via physics-ai hybrid modeling},
-  author={Xu, Wanghan and Ling, Fenghua and Zhang, Wenlong and Han, Tao and Chen, Hao and Ouyang, Wanli and Bai, Lei},
-  journal={Advances in Neural Information Processing Systems},
-  volume={37},
-  pages={23325--23351},
-  year={2024}
-}
-
-@inproceedings{verma2024climode,
-  title={Climode: Climate and weather forecasting with physics-informed neural odes},
-  author={Verma, Yogesh and Heinonen, Markus and Garg, Vikas},
-  booktitle={International Conference on Learning Representations},
-  volume={2024},
-  pages={8408--8430},
-  year={2024}
-}
-
-@inproceedings{lin2025alphapre,
-  title={AlphaPre: Amplitude-phase disentanglement model for precipitation nowcasting},
-  author={Lin, Kenghong and Zhang, Baoquan and Yu, Demin and Feng, Wenzhi and Chen, Shidong and Gao, Feifan and Li, Xutao and Ye, Yunming},
-  booktitle={2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages={17841--17850},
-  year={2025},
-  organization={IEEE}
-}
-
-```
