@@ -1,6 +1,11 @@
 
 # 🌐 OpenGWF: A Comprehensive Survey and Collection of Grid-based Weather Forecasting Models
 
+## ⬇️ Installation
+This project provides a Conda environment configuration file (environment.yml). Users can easily reproduce the complete runtime environment for all grid-based weather forecasting models with the following commands:
+```bitex
+git clone https://github.com/kunli1992/OpenGWF/
+
 ## 📚 Model Collection
 
 ### Grid-based Weather Forecasting Methods
