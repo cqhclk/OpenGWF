@@ -26,9 +26,7 @@ MODEL_CHOICES = [
     "weathergft",
     "alphapre",
     "fourcastnet",
-    "climode",
-    "bfv-ode",
-    "all",
+    "climode"
 ]
 
 
