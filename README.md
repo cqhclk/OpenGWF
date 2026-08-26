@@ -1,4 +1,3 @@
-<img width="1131" height="1066" alt="c34a6555-3d5e-45cd-a1fe-de42e505bf57" src="https://github.com/user-attachments/assets/febd34c4-ebe0-4c5f-913c-6c98e5e585ad" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e1e95f34-3427-49ef-8056-8fe9f36814e3" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/10c6b45c-9cb0-48cb-ab88-670e9e7ca2ad" />
 # 🌐 OpenGWF: A Comprehensive Collection of Grid-based Weather Forecasting Models
 
 ## ⬇️ Installation
@@ -41,6 +40,7 @@ conda activate opengwf
 
 ## ☀️ Visualization
 We present visualization examples of some baseline below. For more detailed information, please refer to the visualization.
+<img width="1131" height="1066" alt="c34a6555-3d5e-45cd-a1fe-de42e505bf57" src="https://github.com/user-attachments/assets/3aee80df-7ea8-4594-9d65-9f9145bba1ee" />
 
 
 ## 📖 Citation
