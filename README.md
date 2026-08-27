@@ -37,6 +37,7 @@ conda activate opengwf
 - ... more coming soon
 
 </details>
+
 ### Data Directory
 For the unified training script, place NPY files in the following layout:
 ```text
