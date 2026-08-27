@@ -24,8 +24,6 @@ conda activate opengwf
 ✅ [ClimODE](https://arxiv.org/abs/2404.10024) (ICLR'2024)
 ✅ [AlphaPre](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AlphaPre_Amplitude-Phase_Disentanglement_Model_for_Precipitation_Nowcasting_CVPR_2025_paper.html) (CVPR'2025)
 
-- ... more coming soon
-
 </details>
 
 ## 📊 Datasets
