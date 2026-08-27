@@ -33,13 +33,13 @@ conda activate opengwf
 <summary><b>Currently supported datasets</b> </summary>
   
 - [weatherbench](https://arxiv.org/abs/2002.00469) (Arxiv'2020) [download](https://mediatum.ub.tum.de/1524895) [config]
-- [weatherbenc 2]() () [download]() [config] 
+- [weatherbenc 2](https://arxiv.org/abs/2308.15560) (Arxiv'2023) [download](https://weatherbench2.readthedocs.io/en/latest/data-guide.html) [config] 
 - ... more coming soon
 
 </details>
 
-### Data Directory
-For the unified training script, place NPY files in the following layout:
+### Data Processing
+Saving the data as npy file. The folder orgFor the unified training script, place NPY files in the following layout:
 ```text
 Data/
   weatherbench/
@@ -49,6 +49,12 @@ Data/
       2006-0000.npy
       2006-0001.npy
       ...
+    2007/
+    ...
+  weatherbench2/
+    mean_std.npy
+    max_min.npy
+    
 ```
 
 Each frame file should have shape `(C, H, W)`.
