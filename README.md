@@ -16,7 +16,7 @@ conda activate opengwf
 <details>
 <summary><b>Currently supported methods</b> </summary>
   
-- [x] [PhyDNet](https://arxiv.org/abs/2003.01460) (CVPR'2020)
+- ✅ [PhyDNet](https://arxiv.org/abs/2003.01460) (CVPR'2020)
 - [Simvp](https://arxiv.org/abs/2206.05099) (CVPR'2022)
 - [FourCastNet](https://arxiv.org/abs/2202.11214) (PASC'23)
 - [TAU](https://arxiv.org/abs/2206.12126) (CVPR'2023)
