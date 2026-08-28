@@ -10,9 +10,9 @@ The OpenGWF framework supports various grid-based weather datasets. We primarily
 
 | Dataset | Description | Resolution | Access |
 | :--- | :--- | :--- | :--- |
-| **WeatherBench** | A benchmark dataset for global weather forecasting based on ERA5 reanalysis. | 1.40625° (128 × 256)<br>2.8125° (64 × 128)<br>5.625° (32 × 64) | [WeatherBench GitHub](https://github.com/pangeo-data/WeatherBench) |
-| **WeatherBench 2** | An updated version with improved metrics and additional variables. || [WeatherBench 2 Paper](https://arxiv.org/abs/2308.15560) |
-| **ERA5** | High-resolution global atmospheric reanalysis from ECMWF. || [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/) |
+| **WeatherBench** | A benchmark dataset for global weather forecasting based on ERA5 reanalysis. | 1.40625° (128 × 256)<br>2.8125° (64 × 128)<br>5.625° (32 × 64) | [WeatherBench](https://mediatum.ub.tum.de/1524895) |
+| **WeatherBench 2** | An updated version with improved metrics and additional variables. || [WeatherBench 2]() |
+| **CRA** | High-resolution global atmospheric reanalysis from CMA. |0.1° (10km)| [) |
 
 > **Note:** For the unified training pipeline, we recommend starting with WeatherBench or WeatherBench 2, as they provide pre-processed data in a consistent format.
 
