@@ -14,19 +14,13 @@ We support both an organized library of PyTorch implementations for quick explor
 <details>
 <summary><b>Code Structures</b> </summary>
   
-- ✅[PhyDNet](https://arxiv.org/abs/2003.01460) (CVPR'2020)
-- ✅[Simvp](https://arxiv.org/abs/2206.05099) (CVPR'2022)
-- ✅[FourCastNet](https://arxiv.org/abs/2202.11214) (PASC'23)
-- ✅[TAU](https://arxiv.org/abs/2206.12126) (CVPR'2023)
-- ✅[WeatherGFT](https://arxiv.org/abs/2405.13796) (NeurIPS'2024)
-- ✅[ClimODE](https://arxiv.org/abs/2404.10024) (ICLR'2024)
-- ✅[AlphaPre](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AlphaPre_Amplitude-Phase_Disentanglement_Model_for_Precipitation_Nowcasting_CVPR_2025_paper.html) (CVPR'2025)
-- [EarthFormer](https://arxiv.org/abs/2207.05833) (NeurIPS'2022)
-- [Prediff](https://arxiv.org/abs/2307.10422) (NeurIPS'2023)
-- [ClimaX](https://arxiv.org/abs/2301.10343) (ICML'2023)
-- [DiffCast](https://arxiv.org/abs/2312.06734) (CVPR'2024)
-- [CasCast](https://arxiv.org/abs/2402.04290) (ICML'2024)
-- [OneForecast](https://arxiv.org/abs/2502.00338) (ICML'2025)
+- api contains an experiment runner.
+- core contains core training plugins and metrics.
+- datasets contains datasets and dataloaders.
+- methods/ contains training methods for various video prediction methods.
+- models/ contains the main network architectures of various video prediction methods.
+- modules/ contains network modules and layers.
+- tools/ contains the executable python files tools/train.py and tools/test.py with possible arguments for training, validating, and testing pipelines.
 
 </details>
 
