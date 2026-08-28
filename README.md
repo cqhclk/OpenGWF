@@ -11,6 +11,9 @@ The project is structured to bridge the gap between cutting-edge research and pr
 We support both an organized library of PyTorch implementations for quick exploration and visualization, making OpenGWF suitable for both researchers and practitioners.
 <img width="1171" height="989" alt="image" src="https://github.com/user-attachments/assets/72720985-2392-4596-910b-6787b6d32506" />
 
+## 📰 News and Updates
+[2026-08-29] [OpenGWF](https://github.com/cqhclk/OpenGWF/) (OpenGWF V1.0) is realeased.
+
 
 ## ⬇️ Installation
 This project provides a Conda environment configuration file (environment.yml). Users can easily reproduce the complete runtime environment for all grid-based weather forecasting models with the following commands:
@@ -108,7 +111,7 @@ We present visualization examples of some baseline below. For more detailed info
 For more visualization results, please refer to [visualization](visualization)
 
 ## 🙏 Acknowledgement
-OpenGWF is an open-source project for grid-based weather forecasting algorithms created by researchers in Hunan University. We encourage researchers interested in grid-based weather forecasting to contribute to OpenGWF! We borrow the official implementations of [PhyDNet](https://github.com/vincent-leguen/PhyDNet), [Simvp](https://github.com/vincent-leguen/PhyDNet), [FourCastNet](https://github.com/NVlabs/FourCastNet), [TAU](https://github.com/chengtan9907/OpenSTL/tree/OpenSTL-Lightning/openstl/methods), [WeatherGFT](https://github.com/black-yt/WeatherGFT), [ClimODE](https://github.com/Aalto-QuML/ClimODE), [AlphaPre](https://github.com/Aalto-QuML/ClimODE)
+OpenGWF is an open-source project for grid-based weather forecasting algorithms created by researchers in Hunan University. We encourage researchers interested in grid-based weather forecasting to contribute to OpenGWF! We borrow the official implementations of [PhyDNet](https://github.com/vincent-leguen/PhyDNet), [Simvp](https://github.com/vincent-leguen/PhyDNet), [FourCastNet](https://github.com/NVlabs/FourCastNet), [TAU](https://github.com/chengtan9907/OpenSTL/tree/OpenSTL-Lightning/openstl/methods), [WeatherGFT](https://github.com/black-yt/WeatherGFT), [ClimODE](https://github.com/Aalto-QuML/ClimODE), [AlphaPre](https://github.com/Aalto-QuML/ClimODE).
 
 ## 📖 Citation
 
