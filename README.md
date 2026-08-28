@@ -107,6 +107,9 @@ We present visualization examples of some baseline below. For more detailed info
 
 For more visualization results, please refer to [visualization](visualization)
 
+## 🙏 Acknowledgement
+OpenGWF is an open-source project for grid-based weather forecasting algorithms created by researchers in Hunan University. We encourage researchers interested in grid-based weather forecasting to contribute to OpenGWF! We borrow the official implementations of [PhyDNet](https://arxiv.org/abs/2003.01460), [Simvp](https://arxiv.org/abs/2206.05099), [FourCastNet](https://arxiv.org/abs/2202.11214), [TAU](https://arxiv.org/abs/2206.12126) (CVPR'2023), [WeatherGFT](https://arxiv.org/abs/2405.13796) (NeurIPS'2024), [ClimODE](https://arxiv.org/abs/2404.10024), [AlphaPre](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AlphaPre_Amplitude-Phase_Disentanglement_Model_for_Precipitation_Nowcasting_CVPR_2025_paper.html)
+
 ## 📖 Citation
 
 If you find this collection useful for your research, please consider citing the relevant models as follows:
