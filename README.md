@@ -36,6 +36,11 @@ conda activate opengwf
 - ✅[ClimODE](https://arxiv.org/abs/2404.10024) (ICLR'2024)
 - ✅[AlphaPre](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AlphaPre_Amplitude-Phase_Disentanglement_Model_for_Precipitation_Nowcasting_CVPR_2025_paper.html) (CVPR'2025)
 - [EarthFormer](https://arxiv.org/abs/2207.05833) (NeurIPS'2022)
+- [Prediff] (https://arxiv.org/abs/2307.10422) (NeurIPS'2023)
+- [ClimaX] (https://arxiv.org/abs/2301.10343) (ICML'2023)
+- [DiffCast] (https://arxiv.org/abs/2312.06734) (CVPR'2024)
+- [CasCast] (https://arxiv.org/abs/2402.04290) (ICML'2024)
+- [OneForecast] (https://arxiv.org/abs/2502.00338) (ICML'2025)
 
 </details>
 
