@@ -7,6 +7,7 @@ The project is structured to bridge the gap between cutting-edge research and pr
 - Standardized Data Support: Common interfaces for popular datasets such as ERA5, HRRR, and GFS.
 - Model Zoo: A growing collection of state-of-the-art grid-based forecasting models with their paper links and reference implementations.
 - Reproducibility: Clear documentation and scripts to reproduce experimental results.
+
 We support both an organized library of PyTorch implementations and a set of Jupyter notebooks for quick exploration and visualization, making OpenGWF suitable for both researchers and practitioners.
 
 ## ⬇️ Installation
