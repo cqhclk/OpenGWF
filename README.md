@@ -51,7 +51,7 @@ conda activate opengwf
   
 - [weatherbench](https://arxiv.org/abs/2002.00469) (Arxiv'2020) [download](https://mediatum.ub.tum.de/1524895) [config]
 - [weatherbenc 2](https://arxiv.org/abs/2308.15560) (Arxiv'2023) [download](https://weatherbench2.readthedocs.io/en/latest/data-guide.html) [config] 
-- ... more coming soon
+- [CRA](https://link.springer.com/article/10.1007/s13351-023-2086-x) ( Journal of Meteorological Research 2023) [download]()[config] 
 
 </details>
 
