@@ -10,11 +10,9 @@ The OpenGWF framework supports various grid-based weather datasets. We primarily
 
 | Dataset | Description | Resolution | Access |
 | :--- | :--- | :--- | :--- |
-| **WeatherBench** | A benchmark dataset for global weather forecasting based on ERA5 reanalysis. | 128 × 256 64 × 128 32 × 64| [WeatherBench GitHub](https://github.com/pangeo-data/WeatherBench) |
-| **WeatherBench 2** | An updated version with improved metrics and additional variables. | 0.7° × 0.7° (~80 km) | [WeatherBench 2 Paper](https://arxiv.org/abs/2308.15560) |
-| **ERA5** | High-resolution global atmospheric reanalysis from ECMWF. | 0.25° × 0.25° (~30 km) | [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/) |
-| **GFS** | Global Forecast System operational forecasts from NOAA. | 0.25° × 0.25° | [NOAA NOMADS](https://nomads.ncep.noaa.gov/) |
-| **HRRR** | High-Resolution Rapid Refresh for regional nowcasting (CONUS). | 3 km | [NOAA HRRR](https://rapidrefresh.noaa.gov/hrrr/) |
+| **WeatherBench** | A benchmark dataset for global weather forecasting based on ERA5 reanalysis. | | [WeatherBench GitHub](https://github.com/pangeo-data/WeatherBench) |
+| **WeatherBench 2** | An updated version with improved metrics and additional variables. || [WeatherBench 2 Paper](https://arxiv.org/abs/2308.15560) |
+| **ERA5** | High-resolution global atmospheric reanalysis from ECMWF. || [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/) |
 
 > **Note:** For the unified training pipeline, we recommend starting with WeatherBench or WeatherBench 2, as they provide pre-processed data in a consistent format.
 
