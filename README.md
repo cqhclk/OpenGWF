@@ -12,13 +12,13 @@ We support both an organized library of PyTorch implementations for quick explor
 <img width="1171" height="989" alt="image" src="https://github.com/user-attachments/assets/72720985-2392-4596-910b-6787b6d32506" />
 
 ## 📰 News and Updates
-[2026-08-29] [OpenGWF](https://github.com/cqhclk/OpenGWF/) (OpenGWF V1.0) is realeased.
+[2026-08-29] [OpenGWF](https://github.com/cqhclk/OpenGWF) (OpenGWF V1.0) is realeased.
 
 
 ## ⬇️ Installation
 This project provides a Conda environment configuration file (environment.yml). Users can easily reproduce the complete runtime environment for all grid-based weather forecasting models with the following commands:
 ```bitex
-git clone https://github.com/kunli1992/OpenGWF/
+git clone https://github.com/cqhclk/OpenGWF/
 cd OpenGWF
 conda env create -f environment.yml
 conda activate opengwf
