@@ -98,7 +98,7 @@ Data/
   - `W`: Grid width (longitude).
 - The number of channels can be flexibly adjusted using the `--channels` argument in the training script.
 - The `mean_std.npy` and `max_min.npy` files are used for data normalization; we recommend pre-computing them over the training set.
-For more details, please refer to [Data/data.md](Data/data.md).
+For more details, please refer to [Data/README.md](Data/README.md).
 
 
 ## ☀️ Visualization
