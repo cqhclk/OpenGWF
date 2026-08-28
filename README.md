@@ -9,6 +9,8 @@ The project is structured to bridge the gap between cutting-edge research and pr
 - Reproducibility: Clear documentation and scripts to reproduce experimental results.
 
 We support both an organized library of PyTorch implementations for quick exploration and visualization, making OpenGWF suitable for both researchers and practitioners.
+<img width="1171" height="989" alt="image" src="https://github.com/user-attachments/assets/72720985-2392-4596-910b-6787b6d32506" />
+
 
 ## ⬇️ Installation
 This project provides a Conda environment configuration file (environment.yml). Users can easily reproduce the complete runtime environment for all grid-based weather forecasting models with the following commands:
