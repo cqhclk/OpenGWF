@@ -108,7 +108,7 @@ We present visualization examples of some baseline below. For more detailed info
 For more visualization results, please refer to [visualization](visualization)
 
 ## 🙏 Acknowledgement
-OpenGWF is an open-source project for grid-based weather forecasting algorithms created by researchers in Hunan University. We encourage researchers interested in grid-based weather forecasting to contribute to OpenGWF! We borrow the official implementations of [PhyDNet](https://arxiv.org/abs/2003.01460), [Simvp](https://arxiv.org/abs/2206.05099), [FourCastNet](https://arxiv.org/abs/2202.11214), [TAU](https://arxiv.org/abs/2206.12126), [WeatherGFT](https://arxiv.org/abs/2405.13796), [ClimODE](https://arxiv.org/abs/2404.10024), [AlphaPre](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AlphaPre_Amplitude-Phase_Disentanglement_Model_for_Precipitation_Nowcasting_CVPR_2025_paper.html)
+OpenGWF is an open-source project for grid-based weather forecasting algorithms created by researchers in Hunan University. We encourage researchers interested in grid-based weather forecasting to contribute to OpenGWF! We borrow the official implementations of [PhyDNet](https://github.com/vincent-leguen/PhyDNet), [Simvp](https://github.com/vincent-leguen/PhyDNet), [FourCastNet](https://github.com/NVlabs/FourCastNet), [TAU](https://arxiv.org/abs/2206.12126), [WeatherGFT](https://github.com/black-yt/WeatherGFT), [ClimODE](https://github.com/Aalto-QuML/ClimODE), [AlphaPre](https://github.com/Aalto-QuML/ClimODE)
 
 ## 📖 Citation
 
