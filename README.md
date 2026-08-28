@@ -1,6 +1,6 @@
 # 🌐 OpenGWF: A Comprehensive Collection of Grid-based Weather Forecasting Models
 
-## 📡Introduction
+## 📊Introduction
 OpenGWF is a comprehensive collection for grid-based weather forecasting, encompassing a broad spectrum of numerical and deep learning-based models. It spans diverse forecasting tasks, ranging from global reanalysis datasets like Weatherbench to regional high-resolution nowcasting scenarios. OpenGWF offers a modular and extensible codebase, excelling in user-friendliness, organization, and reproducibility.
 The project is structured to bridge the gap between cutting-edge research and practical implementation. The repository is organized into several key components, including a unified environment setup, standardized data loaders for common weather datasets, and modular implementations of representative models. To ensure ease of use, we provide:
 - Unified Environment: A Conda environment file (environment.yml) that installs all necessary dependencies.
@@ -44,7 +44,7 @@ conda activate opengwf
 
 </details>
 
-## 📊 Datasets
+## 📁 Datasets
 ### Weather Forecasting Benchmarks
 <details>
 <summary><b>Currently supported datasets</b> </summary>
@@ -56,36 +56,49 @@ conda activate opengwf
 </details>
 
 ### Data Processing
-Saving the data as npy file. The folder organization structure is:
+
+We provide scripts to convert raw meteorological data (e.g., from WeatherBench) into `.npy` format for efficient I/O. 
+
+**Data Storage Format**
+Each file is saved as a single NumPy array with the naming convention:
 
 `data_path/year/year-hour.npy`
 
-where 'hour' refers to the hour index of the current year. For example:
+where `year` is the four-digit year, and `hour` is a zero-padded hour index (starting from `0000` for `01-01 00:00`). For example:
 
-`2000-01-01 00:00:00 --> your_weatherbench_data_path/2000/2000-0000.npy`
-`2010-01-02 01:00:00 --> your_weatherbench_data_path/2010/2010-0025.npy`
+- `2000-01-01 00:00:00` → `your_data_path/2000/2000-0000.npy`
+- `2010-01-02 01:00:00` → `your_data_path/2010/2010-0025.npy`
 
-The folder orgFor the unified training script, place NPY files in the following layout:
+**Directory Structure for Training**
+For the unified training script, place the `.npy` files in the following layout:
+
 ```text
 Data/
-  weatherbench/
-    mean_std.npy
-    max_min.npy
+  weatherbench/               # Dataset name (e.g., WeatherBench)
+    mean_std.npy              # Pre-computed mean & std for normalization
+    max_min.npy               # Pre-computed max & min values
     2006/
       2006-0000.npy
       2006-0001.npy
       ...
     2007/
     ...
-  weatherbench2/
+  weatherbench2/              # Another dataset (e.g., WeatherBench 2)
     mean_std.npy
     max_min.npy
-    
+    2006/
+    2007/
+    ...
 ```
 
-Each frame file should have shape `(C, H, W)`.
-The channel count can be changed with `--channels`; WeatherGFT uses `--weathergft_channels` and defaults to 69.
-
+**Data Specifications**
+- Each `.npy` frame file has the shape `(C, H, W)`.
+  - `C`: Number of channels (e.g., geopotential, temperature, humidity).
+  - `H`: Grid height (latitude).
+  - `W`: Grid width (longitude).
+- The number of channels can be flexibly adjusted using the `--channels` argument in the training script.
+- The `mean_std.npy` and `max_min.npy` files are used for data normalization; we recommend pre-computing them over the training set.
+For more details, please refer to [Data/data.md](Data/data.md).
 
 
 ## ☀️ Visualization
