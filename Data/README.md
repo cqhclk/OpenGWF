@@ -6,11 +6,11 @@ This document provides comprehensive instructions for preparing, formatting, and
 
 ## 📦 Data Sources
 
-The OpenGWF framework supports various gridded meteorological datasets. We primarily recommend the following publicly available sources:
+The OpenGWF framework supports various grid-based weather datasets. We primarily recommend the following publicly available sources:
 
 | Dataset | Description | Resolution | Access |
 | :--- | :--- | :--- | :--- |
-| **WeatherBench** | A benchmark dataset for global weather forecasting based on ERA5 reanalysis. | 1.4° × 1.4° (~160 km) | [WeatherBench GitHub](https://github.com/pangeo-data/WeatherBench) |
+| **WeatherBench** | A benchmark dataset for global weather forecasting based on ERA5 reanalysis. | 128 × 256 64 × 128 32 × 64| [WeatherBench GitHub](https://github.com/pangeo-data/WeatherBench) |
 | **WeatherBench 2** | An updated version with improved metrics and additional variables. | 0.7° × 0.7° (~80 km) | [WeatherBench 2 Paper](https://arxiv.org/abs/2308.15560) |
 | **ERA5** | High-resolution global atmospheric reanalysis from ECMWF. | 0.25° × 0.25° (~30 km) | [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/) |
 | **GFS** | Global Forecast System operational forecasts from NOAA. | 0.25° × 0.25° | [NOAA NOMADS](https://nomads.ncep.noaa.gov/) |
