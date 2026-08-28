@@ -57,7 +57,7 @@ conda activate opengwf
 
 ### Data Processing
 
-We provide scripts to convert raw meteorological data (e.g., from WeatherBench) into `.npy` format for efficient I/O. 
+We provide scripts to convert raw weather data (e.g., from WeatherBench) into `.npy` format for efficient I/O. 
 
 **Data Storage Format**
 Each file is saved as a single NumPy array with the naming convention:
