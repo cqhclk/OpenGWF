@@ -59,9 +59,11 @@ conda activate opengwf
 Saving the data as npy file. The folder organization structure is:
 
 `data_path/year/year-hour.npy`
+
 where 'hour' refers to the hour index of the current year. For example:
 
-
+`2000-01-01 00:00:00 --> your_weatherbench_data_path/2000/2000-0000.npy`
+`2010-01-02 01:00:00 --> your_weatherbench_data_path/2010/2010-0025.npy`
 
 The folder orgFor the unified training script, place NPY files in the following layout:
 ```text
