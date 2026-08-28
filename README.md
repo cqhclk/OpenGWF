@@ -57,9 +57,9 @@ conda activate opengwf
 
 ### Data Processing
 Saving the data as npy file. The folder organization structure is:
-```text
-data_path/year/year-hour.npy
-```
+
+`data_path/year/year-hour.npy`
+
 The folder orgFor the unified training script, place NPY files in the following layout:
 ```text
 Data/
