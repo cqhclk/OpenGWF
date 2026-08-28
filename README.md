@@ -19,8 +19,8 @@ We support both an organized library of PyTorch implementations for quick explor
 - `datasets/` contains datasets and dataloaders.
 - `methods/` contains training methods for various video prediction methods.
 - `models/` contains the main network architectures of various video prediction methods.
-- `modules/' contains network modules and layers.
-- `tools/' contains the executable python files tools/train.py and tools/test.py with possible arguments for training, validating, and testing pipelines.
+- `modules/` contains network modules and layers.
+- `tools/` contains the executable python files tools/train.py and tools/test.py with possible arguments for training, validating, and testing pipelines.
 
 </details>
 
