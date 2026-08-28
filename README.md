@@ -1,5 +1,14 @@
 # 🌐 OpenGWF: A Comprehensive Collection of Grid-based Weather Forecasting Models
 
+## 📡Introduction
+OpenGWF is a comprehensive collection for grid-based weather forecasting, encompassing a broad spectrum of numerical and deep learning-based models. It spans diverse forecasting tasks, ranging from global reanalysis datasets like ERA5 to regional high-resolution nowcasting scenarios. OpenGWF offers a modular and extensible codebase, excelling in user-friendliness, organization, and reproducibility.
+The project is structured to bridge the gap between cutting-edge research and practical implementation. The repository is organized into several key components, including a unified environment setup, standardized data loaders for common meteorological datasets, and modular implementations of representative models. To ensure ease of use, we provide:
+Unified Environment: A Conda environment file (environment.yml) that installs all necessary dependencies.
+Standardized Data Support: Common interfaces for popular datasets such as ERA5, HRRR, and GFS.
+Model Zoo: A growing collection of state-of-the-art grid-based forecasting models with their paper links and reference implementations.
+Reproducibility: Clear documentation and scripts to reproduce experimental results.
+We support both an organized library of PyTorch implementations and a set of Jupyter notebooks for quick exploration and visualization, making OpenGWF suitable for both researchers and practitioners.
+
 ## ⬇️ Installation
 This project provides a Conda environment configuration file (environment.yml). Users can easily reproduce the complete runtime environment for all grid-based weather forecasting models with the following commands:
 ```bitex
