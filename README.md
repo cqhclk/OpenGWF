@@ -11,6 +11,25 @@ The project is structured to bridge the gap between cutting-edge research and pr
 We support both an organized library of PyTorch implementations for quick exploration and visualization, making OpenGWF suitable for both researchers and practitioners.
 <img width="1171" height="989" alt="image" src="https://github.com/user-attachments/assets/72720985-2392-4596-910b-6787b6d32506" />
 
+<details>
+<summary><b>Code Structures</b> </summary>
+  
+- ✅[PhyDNet](https://arxiv.org/abs/2003.01460) (CVPR'2020)
+- ✅[Simvp](https://arxiv.org/abs/2206.05099) (CVPR'2022)
+- ✅[FourCastNet](https://arxiv.org/abs/2202.11214) (PASC'23)
+- ✅[TAU](https://arxiv.org/abs/2206.12126) (CVPR'2023)
+- ✅[WeatherGFT](https://arxiv.org/abs/2405.13796) (NeurIPS'2024)
+- ✅[ClimODE](https://arxiv.org/abs/2404.10024) (ICLR'2024)
+- ✅[AlphaPre](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_AlphaPre_Amplitude-Phase_Disentanglement_Model_for_Precipitation_Nowcasting_CVPR_2025_paper.html) (CVPR'2025)
+- [EarthFormer](https://arxiv.org/abs/2207.05833) (NeurIPS'2022)
+- [Prediff](https://arxiv.org/abs/2307.10422) (NeurIPS'2023)
+- [ClimaX](https://arxiv.org/abs/2301.10343) (ICML'2023)
+- [DiffCast](https://arxiv.org/abs/2312.06734) (CVPR'2024)
+- [CasCast](https://arxiv.org/abs/2402.04290) (ICML'2024)
+- [OneForecast](https://arxiv.org/abs/2502.00338) (ICML'2025)
+
+</details>
+
 ## 📰 News and Updates
 [2026-08-29] [OpenGWF](https://github.com/cqhclk/OpenGWF) (OpenGWF V1.0) is realeased.
 
