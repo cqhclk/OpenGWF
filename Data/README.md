@@ -90,3 +90,12 @@ Data/
     2010/
     2011/
     ...
+
+
+| File / Directory | Description |
+| :--- | :--- |
+| `Data/{dataset}/` | Root folder for each dataset. Name is user-defined (e.g., `weatherbench`). |
+| `mean_std.npy` | NumPy array of shape `(2, C)` containing the mean and standard deviation for each channel, computed over the training set. Used for z-score normalization. |
+| `max_min.npy` | NumPy array of shape `(2, C)` containing the max and min values for each channel, computed over the training set. Used for min-max scaling if needed. |
+| `{year}/` | Subfolder for each year containing all hourly `.npy` files. |
+| `{year}-{hour}.npy` | Individual frame file for a specific hour. |
