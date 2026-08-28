@@ -13,10 +13,10 @@ We support both an organized library of PyTorch implementations for quick explor
 
 <details>
 <summary><b>Code Structures</b> </summary>
-  
+
+- `Data/` contains datasets and dataloaders.  
 - `api/` contains an experiment runner.
 - `core/` contains core training plugins and metrics.
-- `datasets/` contains datasets and dataloaders.
 - `methods/` contains training methods for various video prediction methods.
 - `models/` contains the main network architectures of various video prediction methods.
 - `modules/` contains network modules and layers.
