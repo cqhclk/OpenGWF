@@ -59,6 +59,9 @@ conda activate opengwf
 Saving the data as npy file. The folder organization structure is:
 
 `data_path/year/year-hour.npy`
+where 'hour' refers to the hour index of the current year. For example:
+
+
 
 The folder orgFor the unified training script, place NPY files in the following layout:
 ```text
